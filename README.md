@@ -1,2 +1,2 @@
 # Udemy-Challenges
-Small repository for keeping track of my Python progress
+Repository for keeping track of my Python progress
